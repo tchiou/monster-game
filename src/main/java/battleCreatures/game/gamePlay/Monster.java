@@ -1,6 +1,6 @@
 /**
 Code written by: Tiffany Chiou
-Part of Jenkins How-to Tutorial, Assignment 5
+Part of Jenkins How-to Tutorial, Assignment 5 :)
 **/
 
 package battleCreatures.game.gamePlay;
