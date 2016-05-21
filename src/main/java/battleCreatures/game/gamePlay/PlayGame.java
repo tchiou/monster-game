@@ -98,7 +98,7 @@ public class PlayGame {
 	 */
 	
 	public static void main(String[] args) {
-		PlayGame newGame = new PlayGame();
+		Monster newGame = new Monster();
 		
 		Random rand = new Random(System.currentTimeMillis());
 		int monster1 = rand.nextInt(4);
